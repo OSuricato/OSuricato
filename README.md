@@ -17,7 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Full Stack Software Developer`
-- :technologist: **Currently working on** `Full-Stack Development **&** `Ruby on Rails`
+- :technologist: **Currently working on** `Full-Stack Development` **&** `Ruby on Rails`
 - :boom: You can visit [MY WEBSITE](https://victorbarbosa.com) for more info
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=OSuricato&amp;color=EA4335&amp;style=flat-square)](mailto:victor@victorbarbosa.com)
 - :nerd_face: Always believe `"You are what you loved"`
