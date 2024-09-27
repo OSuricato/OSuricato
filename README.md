@@ -17,9 +17,9 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Full Stack Software Developer`
-- :technologist: **Currently working on** `Full-Stack Development` **&** `Ruby on Rails`
+- :technologist: **Currently working on** `Full-Stack Development` **&** `Javascript, Python, Flutter`
 - :boom: You can visit [my website](https://suricatoweb.com) for more info
-- :email: Feel free to **reach out to me** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=OSuricato&amp;color=EA4335&amp;style=flat-square)](mailto:victor@victorbarbosa.com)
+- :email: Feel free to **reach out to me** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=OSuricato&amp;color=EA4335&amp;style=flat-square)](mailto:barbosavictor30@gmail.com)
 
 <br>
 
