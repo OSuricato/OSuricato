@@ -1,27 +1,42 @@
-<!--horizontal divider(gradiant)-->
+<!-- Horizontal Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-
+<!-- Header -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Victor Barbosa</h1></summary>
+    <summary>
+      <h1 style="display: inline-block">Hi there👋, I'm Victor Barbosa</h1>
+    </summary>
   </ul>
 </div>
 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
 
-<!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+- :school: I’m a **Full Stack Software Developer** and **Product Engineer** at [Liti](https://liti.com)  
+- :technologist: Passionate about designing and building innovative, scalable, and user-friendly applications  
+- :rocket: Currently focused on full-stack development using **JavaScript**, **Python**, **Flutter**, **FastAPI**, **Node.js**, and more  
+- :zap: Experienced with modern frameworks, cloud services, and data analytics solutions  
+- :boom: Check out my portfolio & projects on [my website](https://suricatoweb.com)  
+- :email: Feel free to [reach out via email](mailto:barbosavictor30@gmail.com) or click the badge below:
+  [![Send me Email](https://img.shields.io/static/v1?label=email&message=OSuricato&color=EA4335&style=flat-square)](mailto:barbosavictor30@gmail.com)
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+---
 
-- :school: I am a `Full Stack Software Developer`
-- :technologist: **Currently working on** `Full-Stack Development` **&** `Javascript, Python, Flutter`
-- :boom: You can visit [my website](https://suricatoweb.com) for more info
-- :email: Feel free to **reach out to me** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=OSuricato&amp;color=EA4335&amp;style=flat-square)](mailto:barbosavictor30@gmail.com)
+## 🏢 Work Experience
 
-<br>
+### Product Engineer at [Liti](https://liti.com)
+- **Role:** Building robust, scalable full-stack solutions and driving product innovation  
+- **Technologies:** Leverage **JavaScript**, **Python**, **Flutter**, **FastAPI**, **Node.js**, among other modern technologies  
+- **Responsibilities:**
+  - Develop and maintain high-quality web and mobile applications
+  - Collaborate with cross-functional teams to design and implement new features
+  - Optimize application performance and user experience
+- **Achievements:**
+  - Spearheaded key feature developments that enhanced user engagement and streamlined operations
+  - Implemented process improvements that increased system efficiency and reduced technical debt
+
+---
 
 ## 🛠️ My Skills
 
@@ -71,53 +86,31 @@
 ![macOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94.svg?style=flat-square&logo=kalilinux&logoColor=white)
-<br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+---
 
-<!--- stats & Trophy (start) -->
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> GitHub Stats
 
-<p align="left">
-  <!--- stats (start) -->
 <table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=OSuricato&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
-
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OSuricato&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-  </td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=OSuricato&theme=dark&show_icons=true&count_private=true" alt="Victor's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OSuricato&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=OSuricato&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophies">
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=OSuricato&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
+  </a>
 </div>
-
-<!--- trophy (start) -->
-</p>        
-<!--- stats (end) -->
 
 <br>
 
-<!--profile visit count-->
-
-<div align="center">
 
 
-[![](https://visitcount.itsvg.in/api?id=OSuricato&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
-
-<!--horizontal divider(gradiant)-->
+<!-- Horizontal Divider (Gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
